@@ -1,0 +1,4 @@
+1. Gremo v mapo app_public
+2. Ukaz: ng build --configuration=docker --output-path build
+3. Ukaz: docker-compose down
+4. Ukaz: docker-compose up --build --detach

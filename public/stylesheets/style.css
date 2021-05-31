@@ -1,0 +1,270 @@
+body {
+  background-color: #F5F5F5;
+  font-family: Arial;
+  margin-top: 75px;
+}
+.navbar{
+  background-color: #d2d3d5;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 100;
+}
+.navbar-nav .nav-item:not(:last-child) {
+   border-right: 1px solid silver;
+}
+
+.login {
+    width: 180px;
+    height: 40px;
+    margin: 0px 10px 0px;
+}
+.searchvnos{
+  width: 200px !important;
+}
+
+.btn {
+     margin: 0px 4px 4px;
+     font-size: 16px;
+  	font-weight: bold;
+  	background: #79b0da;
+  	border: none;
+}
+
+.btn .plus{
+     height: 20px;
+     padding-bottom: 3px;
+     padding-right: 5px;
+}
+.gumb-dropdown {
+    margin: 0px 2px 4px;
+    font-size: 16px;
+  	font-weight: bold;
+  	background: #79b0da;
+  	border: none;
+}
+.dropdown-menu {
+    width: 200px !important;
+}
+
+iframe {
+  width: 100%;
+}
+
+
+.signup-form form {
+	color: #999;
+	border-radius: 5px;
+	margin-bottom: 10px;
+	background: #fff;
+	padding: 30px;
+}
+.signup-form h2  {
+	color: #333;
+	font-weight: bold;
+	margin-top: 0;
+}
+
+.signup-form .form-group {
+	margin-bottom: 20px;
+}
+.signup-form input[type="checkbox"] {
+	margin-top: 3px;
+}
+
+.signup-form .btn {
+	font-size: 16px;
+	font-weight: bold;
+	background: #79b0da;
+	border: none;
+	min-width: 140px;
+}
+.signup-form .btn:hover, .signup-form .btn:focus {
+	background: #2389cd !important;
+	outline: none;
+}
+
+.novclanek{
+     margin: 20px;
+}
+.novclanek h1{
+     color: black;
+     height: 100%;
+     font-size: 40px;
+     font-weight: bold;
+}
+
+.MediaInputclanekform {
+     margin: 20px;
+}
+
+.MediaInputpolje {
+	height: 45px;
+	background: #f2f2f2;
+	box-shadow: none !important;
+	border: none;
+     margin-bottom: 10px;
+     width: 100%;
+}
+.MediaInputclanektext {
+     width: 100%;
+     height: 50vh;
+     resize: none;
+}
+.MediaInputcaptiontext {
+     width: 100%;
+     height: 10vh;
+     resize: none;
+}
+
+.komentar {
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-bottom: 0.5em;
+}
+
+.komentar > div {
+  padding:0.5em;
+}
+
+.komentar > div:first-child {
+  margin-top:1em;
+  background-color: #d2d3d5;
+}
+
+.komentar-avtor {
+  margin-left:0.5em;
+}
+
+.profile-zbirka {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin: 25px;
+}
+.profile-clanek {
+    padding-bottom: 20px;
+    padding-top: 7px;
+    min-height: 120px;
+}
+.profile-clanek .image {
+    display: block;
+    overflow: hidden;
+    border-radius: 10px
+
+}
+
+@media (min-width:576px) {
+    .profile-clanek .image {
+        display: inline-block;
+        float: left;
+        width: 200px;
+        height: 120px;
+        object-fit: cover;
+    }
+}
+@media (max-width:575px) {
+    .profile-clanek .image {
+      display: inline-block;
+      width: 82vw;
+      object-fit: cover;
+      margin-bottom: 10px;
+    }
+}
+.profile-clanek .info {
+    margin-top: 2px;
+    font-size: 10px;
+    color: #999
+}
+
+.profile-clanek .caption {
+    font-size: 12px
+}
+
+.profile-clanek .naslov>a {
+    color: #555
+}
+
+hr.dotted {
+  border-top: 2px dotted #bbb;
+}
+
+hr.debelo {
+  border-top: 5px solid #bbb;
+}
+
+
+.article-podlaga{
+    background-color: white;
+    margin-top: 10px;
+}
+
+.article-avtor{
+    padding-top: 35px;
+    padding-left: 15px;
+}
+
+.article-naslov{
+    padding-top: 35px;
+}
+
+.article-podnaslov{
+    font-weight: lighter;
+    padding-bottom: 15px;
+}
+
+.article-besedilo{
+    padding-right: 15px;
+}
+
+.article-slika{
+    padding-bottom: 15px;
+    padding-right: 15px;
+}
+
+.article-comments_header{
+    padding-top: 85px;
+    left:50px;
+}
+
+.article-podrocje{
+    margin-top: 10px;
+    margin-bottom: 0px;
+    color: #79b0da;
+}
+
+.article-comment{
+     margin-bottom: 10px;
+}
+
+
+.media-slika{
+    width: 600px;
+    height: 400px;
+    object-fit: cover;
+    padding: 10px;
+}
+
+.media-podlaga{
+    background-color: white;
+    margin-top: 15px;
+}
+
+.media-podlaga-2{
+    background-color: white;
+    margin-top: 30px;
+}
+
+.media-naslov{
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-bottom: 0px;
+}
+
+.media-link{
+    color: #333333;
+}
+
+
+.media-opis-slike{
+    padding-left: 10px;
+}

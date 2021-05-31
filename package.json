@@ -1,0 +1,43 @@
+{
+  "name": "DebtSettler",
+  "version": "3.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "engines": {
+    "node": ">=15.2.0",
+    "npm": ">=7.0.8"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "compression": "^1.7.4",
+    "cookie-parser": "*",
+    "cors": "*",
+    "crypto": "*",
+    "debug": "*",
+    "dotenv": "^8.2.0",
+    "express": "*",
+    "express-jwt": "^6.0.0",
+    "hbs": "*",
+    "http-errors": "*",
+    "jsonwebtoken": "*",
+    "mongo": "*",
+    "mongoose": "^5.12.6",
+    "morgan": "*",
+    "ng": "^0.0.0",
+    "ngx-bootstrap": "^6.2.0",
+    "nodemon": "*",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chromedriver": "^87.0.4",
+    "mocha": "^8.2.1",
+    "mochawesome": "^6.2.1",
+    "selenium-webdriver": "^4.0.0-alpha.8"
+  }
+}

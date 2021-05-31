@@ -1,0 +1,79 @@
+[
+{
+        "_id" : "60896180bd952eef3670b267",
+        "imeTrgovine" : "Mercator",
+        "opisNakupa" : "Kupil sem banane",
+        "cenaNakupa" : "4789",
+        "avtor" : "5fc2b78f4be256386c6b96ed"
+},
+{
+        "_id" : "608961adbd952eef3670b268",
+        "imeTrgovine" : "Spar",
+        "opisNakupa" : "Nutela, jogurt, banane",
+        "cenaNakupa" : "1289",
+        "avtor" : "5fc2b78f4be256386c6b96ed"
+},
+{
+        "_id" : "60896229bd952eef3670b269",
+        "imeTrgovine" : "Spar",
+        "opisNakupa" : "Kruh",
+        "cenaNakupa" : "4789",
+        "avtor" : "5fc2b78f4be256386c6b96ed"
+},
+{
+        "_id" : "60896238bd952eef3670b26a",
+        "imeTrgovine" : "Spar",
+        "opisNakupa" : "Paradajz, kumarce",
+        "cenaNakupa" : "789",
+        "avtor" : "5fc2b78f4be256386c6b96ed"
+},
+{
+        "_id" : "60896251bd952eef3670b26b",
+        "imeTrgovine" : "Spar",
+        "opisNakupa" : "Med",
+        "cenaNakupa" : "119",
+        "avtor" : "5fc2b7b94be256386c6b96ee"
+},
+{
+        "_id" : "60896267bd952eef3670b26c",
+        "imeTrgovine" : "Mercator",
+        "opisNakupa" : "Zemlje, nutela, sladkor",
+        "cenaNakupa" : "1567",
+        "avtor" : "5fc2b7b94be256386c6b96ee"
+},
+{
+        "_id" : "6089627bbd952eef3670b26d",
+        "imeTrgovine" : "Mercator",
+        "opisNakupa" : "6-pack Union",
+        "cenaNakupa" : "1235",
+        "avtor" : "5fc2b7b94be256386c6b96ee"
+},
+{
+        "_id" : "6089629fbd952eef3670b26e",
+        "imeTrgovine" : "FE",
+        "opisNakupa" : "3x kosilo",
+        "cenaNakupa" : "903",
+        "avtor" : "5fc2bebd885f8c33cc35d534"
+},
+{
+        "_id" : "608962b2bd952eef3670b26f",
+        "imeTrgovine" : "Meractor",
+        "opisNakupa" : "Cigarete",
+        "cenaNakupa" : "451",
+        "avtor" : "5fc2bebd885f8c33cc35d534"
+},
+{
+        "_id" : "608962dabd952eef3670b270",
+        "imeTrgovine" : "Spar",
+        "opisNakupa" : "Baloni, kondomi",
+        "cenaNakupa" : "789",
+        "avtor" : "5fc2bebd885f8c33cc35d534"
+},
+{
+        "_id" : "608962ebbd952eef3670b271",
+        "imeTrgovine" : "Meractor",
+        "opisNakupa" : "Kruh",
+        "cenaNakupa" : "99",
+        "avtor" : "5fc2bebd885f8c33cc35d534"
+}
+]
