@@ -15,7 +15,7 @@ var apiParametri = {
   streznik: 'http://localhost:' + (process.env.PORT || 3000)
 };
 if (process.env.NODE_ENV === 'production') {
-  apiParametri.streznik = 'https://debtsettler.herokuapp.com';
+  apiParametri.streznik = 'INSERT YOUR PRODUCTION URL HERE';
 }
 
 const vrniUpId = (req, res, pkOdgovor) => {
